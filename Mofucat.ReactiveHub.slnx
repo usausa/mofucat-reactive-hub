@@ -1,0 +1,25 @@
+<Solution>
+  <Folder Name="/Example/">
+    <Project Path="Example/Example.csproj" DefaultStartup="true" />
+  </Folder>
+  <Folder Name="/Library/">
+    <Project Path="Mofucat.ReactiveHub/Mofucat.ReactiveHub.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="AGENTS.md" />
+    <File Path="Analyzers.ruleset" />
+    <File Path="CLAUDE.md" />
+    <File Path="CodeCoverage.runsettings" />
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Build.targets" />
+    <File Path="LICENSE" />
+    <File Path="Mofucat.ReactiveHub.sln.DotSettings" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="Mofucat.ReactiveHub.Tests/Mofucat.ReactiveHub.Tests.csproj" />
+  </Folder>
+</Solution>
